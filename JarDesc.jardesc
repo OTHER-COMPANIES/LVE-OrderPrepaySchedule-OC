@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="LVE-OrderPrepaySchedule_OC/packages/LVE-OrderPrepaySchedule_OC/lib/LVE-OrderPrepaySchedule_OC.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/LVE-OrderPrepaySchedule_OC/JarDesc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/LVE-OrderPrepaySchedule_OC/GenerateModelLVE-OrderPrePaySchedule.launch"/>
+        <file path="/LVE-OrderPrepaySchedule_OC/LVE-OrderPrepaySchedule.launch"/>
+        <file path="/LVE-OrderPrepaySchedule_OC/.project"/>
+        <file path="/LVE-OrderPrepaySchedule_OC/.classpath"/>
+        <javaElement handleIdentifier="=LVE-OrderPrepaySchedule_OC/patches"/>
+        <javaElement handleIdentifier="=LVE-OrderPrepaySchedule_OC/base"/>
+        <file path="/LVE-OrderPrepaySchedule_OC/JarDesc.jardesc"/>
+    </selectedElements>
+</jardesc>
